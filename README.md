@@ -1,11 +1,11 @@
 <table border=0 width=100%>
   <tr>
     <td width=30%>
-      <img width="300px" height="80px" src="https://github.com/GrupoZaid/GrupoZaid/blob/main/Logo.jpg" align="right" alt="Logo Ibero" />
+      <img width="300px" height="80px" src="https://github.com/GrupoZaid/GrupoZaid/blob/main/Logo.png" align="right" alt="Logo Ibero" />
     </td>
     <td width=70%>
-      <h3 align="left">Universidad Iberoamericana</h3>
-      <p align="left">Dirección de Informática y Telecomunicaciones</p>   
+      <h3 align="left">Grupo Zaid</h3>
+      <p align="left">Dirección de Informática</p>   
     </td>      
   </tr>
 </table>
