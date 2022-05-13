@@ -85,7 +85,7 @@ Cerrar(DialogResult.Yes);
 ```
 -----
 <a name="derechos"></a>
-*Copyright © Universidad Iberoamericana 2014-2022.*
+*Copyright © Grupo Zaid - 2022.*
 
 <a name="autores"></a>
-*Carlos Héctor Díaz González (SoftwareOne).*
+*Carlos Héctor Díaz González.*
